@@ -3,7 +3,7 @@
 
 >> 📅 **Aula de terça-feira, 19 de maio**
 
-- Exercício resolvido: [A idade de Dona Mônica](https://olimpiada.ic.unicamp.br/pratique/p1/2019/f1/idade/). Solução disponível [aqui](#aula-19_5).
+- Exercício resolvido: [A idade de Dona Mônica](https://olimpiada.ic.unicamp.br/pratique/p1/2019/f1/idade/). Solução disponível [aqui](https://github.com/prof-jpontes/treinamento_obi_2026/blob/main/aula_19_5/idade.py).
 
 ## Para praticar:
 - [Xadrez](https://olimpiada.ic.unicamp.br/pratique/p1/2018/f1/xadrez/);
