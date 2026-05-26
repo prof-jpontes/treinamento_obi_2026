@@ -18,12 +18,12 @@
 
 >> 📅 **Aula de quinta-feira, 21 de maio**
 - [Piloto Automático](https://olimpiada.ic.unicamp.br/pratique/p1/2020/f1/piloto/);
-- [Basquete de robôs](https://olimpiada.ic.unicamp.br/pratique/pj/2018/f1/basquete/);
+- ~~[Basquete de robôs](https://olimpiada.ic.unicamp.br/pratique/pj/2018/f1/basquete/)~~;
 - [Game-10](https://olimpiada.ic.unicamp.br/pratique/ps/2017/f1/game10/);
-- [Piso da Escola](https://olimpiada.ic.unicamp.br/pratique/ps/2018/f1/piso/);
-- [Tomadas](https://olimpiada.ic.unicamp.br/pratique/pj/2013/f1/tomadas/);
-- [Nota Esquecida](https://olimpiada.ic.unicamp.br/pratique/pj/2019/f2/nota/);
-- [Transporte de Contêineres](https://olimpiada.ic.unicamp.br/pratique/pj/2011/f1/transporte/);
-- [Drone de Entrega](https://olimpiada.ic.unicamp.br/pratique/pj/2017/f1/drone/);
+- ~~[Piso da Escola](https://olimpiada.ic.unicamp.br/pratique/ps/2018/f1/piso/)~~;
+- ~~[Tomadas](https://olimpiada.ic.unicamp.br/pratique/pj/2013/f1/tomadas/)~~;
+- ~~[Nota Esquecida](https://olimpiada.ic.unicamp.br/pratique/pj/2019/f2/nota/)~~;
+- ~~[Transporte de Contêineres](https://olimpiada.ic.unicamp.br/pratique/pj/2011/f1/transporte/)~~;
+- ~~[Drone de Entrega](https://olimpiada.ic.unicamp.br/pratique/pj/2017/f1/drone/)~~;
 - [Detectando Colisões](https://olimpiada.ic.unicamp.br/pratique/p1/2007/f1/colisoes/);
 - [Acelerador de partículas](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/acelerador/).
