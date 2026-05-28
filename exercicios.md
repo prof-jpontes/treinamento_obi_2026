@@ -27,3 +27,16 @@
 - ~~[Drone de Entrega](https://olimpiada.ic.unicamp.br/pratique/pj/2017/f1/drone/)~~;
 - [Detectando Colisões](https://olimpiada.ic.unicamp.br/pratique/p1/2007/f1/colisoes/);
 - [Acelerador de partículas](https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/acelerador/).
+
+
+>> 📅 **Aula de terça-feira, 26 de maio**
+- ~~[Basquete de robôs](https://olimpiada.ic.unicamp.br/pratique/pj/2018/f1/basquete/)~~;
+- ~~[Piso da Escola](https://olimpiada.ic.unicamp.br/pratique/ps/2018/f1/piso/)~~;
+- ~~[Tomadas](https://olimpiada.ic.unicamp.br/pratique/pj/2013/f1/tomadas/)~~;
+- ~~[Nota Esquecida](https://olimpiada.ic.unicamp.br/pratique/pj/2019/f2/nota/)~~;
+- ~~[Transporte de Contêineres](https://olimpiada.ic.unicamp.br/pratique/pj/2011/f1/transporte/)~~;
+- ~~[Drone de Entrega](https://olimpiada.ic.unicamp.br/pratique/pj/2017/f1/drone/)~~;
+
+
+>> 📅 **Aula de quinta-feira, 28 de maio**
+- [Sequência Secreta](https://olimpiada.ic.unicamp.br/pratique/pj/2019/f1/secreta/);
