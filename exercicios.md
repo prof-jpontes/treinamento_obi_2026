@@ -46,3 +46,5 @@
 - [Prova 2025 – nível 1](https://olimpiada.ic.unicamp.br/static/extras/obi2025/provas/ProvaOBI2025_f1p1.pdf);
 - [Prova 2026 – nível 2](https://olimpiada.ic.unicamp.br/static/extras/obi2025/provas/ProvaOBI2025_f1p2.pdf);
 - [Prova 2026 – nível Sênior](https://olimpiada.ic.unicamp.br/static/extras/obi2025/provas/ProvaOBI2025_f1ps.pdf).
+
+**Use a opção "Pratique" do [site da OBI](https://olimpiada.ic.unicamp.br/) para procurar e resolver mais questões**
